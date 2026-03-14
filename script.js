@@ -4,22 +4,22 @@
 
         // 이모지 목록
         EMOJIS: {
-            "blobangery": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobangery.webp",
-            "blobangry": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobangry.webp",
-            "blobaww": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobaww.webp",
-            "blobcry": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobcry.webp",
-            "blobdead": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobdead.webp",
-            "blobfearful": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobfearful.webp",
-            "blobimfine": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobimfine.webp",
-            "blobpats": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobpats.webp",
-            "blobrofl": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobrofl.webp",
-            "blobsad": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobsad.webp",
-            "blobsadrain": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobsadrain.webp",
-            "blobsob": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobsob.webp",
-            "blobthinking": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobthinking.webp",
-            "blobthumbsup": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobthumbsup.webp",
-            "blobyum": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/blobyum.webp",
-            "zanmangawk": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis/refs/heads/main/img/zanmangawk.jpeg"
+            "blobangery": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobangery.webp",
+            "blobangry": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobangry.webp",
+            "blobaww": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobaww.webp",
+            "blobcry": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobcry.webp",
+            "blobdead": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobdead.webp",
+            "blobfearful": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobfearful.webp",
+            "blobimfine": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobimfine.webp",
+            "blobpats": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobpats.webp",
+            "blobrofl": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobrofl.webp",
+            "blobsad": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobsad.webp",
+            "blobsadrain": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobsadrain.webp",
+            "blobsob": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobsob.webp",
+            "blobthinking": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobthinking.webp",
+            "blobthumbsup": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobthumbsup.webp",
+            "blobyum": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/blobyum.webp",
+            "zanmangawk": "https://raw.githubusercontent.com/hi-thankyou-bye-seeyouagain/CustomEmojis_Custom/main/img/zanmangawk.jpeg"
         }
     };
 
