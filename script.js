@@ -19,6 +19,7 @@
             "blobthinking": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthinking.webp",
             "blobthumbsup": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthumbsup.webp",
             "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp"
+            "zanmang_awk": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/zanmang_awk.jpeg"
         }
     };
 
